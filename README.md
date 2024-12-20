@@ -16,3 +16,6 @@ Google Collab link for this :-https://colab.research.google.com/drive/1BecFwrZFf
 | Random Forest | 0.0036 | 0.0602 | 0.0504 | 6.1104 | 0.2005 |
 | Lasso Regression | 0.0045 | 0.0674 | 0.0543 | 6.6047 | -0.0016 |
 | Decision Tree | 0.0078 | 0.0880 | 0.0731 | 8.8452 | -0.7113 |
+
+View the document:
+- [PDF version](https://github.com/AnMaster15/LE_prediction/blob/main/results.pdf)
