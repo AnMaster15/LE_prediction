@@ -4,7 +4,6 @@ Google Collab link for this :-https://colab.research.google.com/drive/1BecFwrZFf
   
   <img src="https://github.com/AnMaster15/LE_prediction/blob/main/Eval_prediction.png" width="49%" />
   <img src="https://github.com/AnMaster15/LE_prediction/blob/main/R2_result.png" width="49%" />
-  <img src="https://github.com/AnMaster15/LE_prediction/blob/main/Target1.png" width="49%" />
 </p>
 
 ## Model Performance Metrics
